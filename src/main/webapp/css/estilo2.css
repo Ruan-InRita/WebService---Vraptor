@@ -1,0 +1,15 @@
+.meuestilo{
+    padding-top:3%;
+}
+
+.texto{
+    font-size: 15px;
+}
+
+.corpo{
+
+    -webkit-box-shadow: 0px 3px 3px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    0px 3px 3px rgba(50, 50, 50, 0.77);
+    box-shadow:         0px 3px 3px rgba(50, 50, 50, 0.77);
+    padding-bottom: 2%;
+}
